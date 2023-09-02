@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/castle.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/clouds.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/fog.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/HeroSheet.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/hill1.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/hill2.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/hill3.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/hill4.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/november.spritefont</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/sky.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/swordpointer.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/swordpress.png</File>
+    <File>C:/Users/Kyle/source/repos/SuperAdventureQuest/SuperAdventureQuest/Content/title.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
